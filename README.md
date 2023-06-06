@@ -186,7 +186,7 @@ _______________________________________
  
  โดยการใช้งานผ่าน Xloader ตามขั้นตอนดังนี้
  1. แตกไฟล์ xloader.zip ให้เรียบร้อยและเปิดโปรแกรม xloader.exe
- 2. เลือกไฟล์ fireware.hex ที่ถูกต้อง
+ 2. เลือกไฟล์ fireware.hex ที่ถูกต้อง 
 
 ![image](https://github.com/AlphaP2712/EndEffector2023/assets/74948675/dfd67d49-fc47-42b0-88dd-92b0661fa140) 
  
